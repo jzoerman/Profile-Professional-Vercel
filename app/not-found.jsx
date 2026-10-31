@@ -1,0 +1,1 @@
+export default function NotFound() { return <main className="page-shell"><section className="section"><p className="eyebrow">404</p><h1>Page not found</h1><p>The page may be unavailable or no longer published.</p><a className="text-link" href="/">Back to overview</a></section></main>; }

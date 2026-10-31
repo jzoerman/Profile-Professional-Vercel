@@ -1,0 +1,11 @@
+{
+  "title": "Owning AI-assisted code in production systems",
+  "summary": "Faster output only helps when the engineer can still reason through the behavior, failure modes, and maintenance cost of what gets deployed.",
+  "category": "Engineering Practice",
+  "publishDate": "2026-05-30",
+  "readTime": "6 min read",
+  "urlPath": "/articles/owning-ai-assisted-code",
+  "htmlFile": "html/owning-ai-assisted-code.html",
+  "isActive": false,
+  "sortKey": 20
+}

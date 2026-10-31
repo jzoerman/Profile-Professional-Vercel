@@ -1,0 +1,27 @@
+{
+  "id": "experience",
+  "eyebrow": "Experience",
+  "heading": "Senior Software Engineer",
+  "children": [
+    {
+      "heading": "Delivery ownership across multiple input channels",
+      "text": "Translate ambiguous requests into working systems while balancing speed and long-term maintainability.",
+      "sortKey": 10,
+      "isActive": true
+    },
+    {
+      "heading": "Internal tools and team efficiency",
+      "text": "Build and maintain lightweight tools that improve day-to-day execution and actually get used.",
+      "sortKey": 20,
+      "isActive": true
+    },
+    {
+      "heading": "Communication growth mindset",
+      "text": "Actively improving clarity and confidence in high-stakes and leadership conversations.",
+      "sortKey": 30,
+      "isActive": true
+    }
+  ],
+  "sortKey": 70,
+  "isActive": true
+}

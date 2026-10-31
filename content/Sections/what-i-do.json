@@ -1,0 +1,37 @@
+{
+  "id": "what-i-do",
+  "eyebrow": "What I Do",
+  "heading": "What I Do",
+  "children": [
+    {
+      "number": "01",
+      "heading": "AI-Augmented Delivery",
+      "text": "Use AI to accelerate development while staying accountable for the result.",
+      "sortKey": 10,
+      "isActive": true
+    },
+    {
+      "number": "02",
+      "heading": "Workflow Systems",
+      "text": "Reduce friction in everyday work and make fragmented inputs easier to act on.",
+      "sortKey": 20,
+      "isActive": true
+    },
+    {
+      "number": "03",
+      "heading": "Practical Design",
+      "text": "Favor simple, maintainable systems over abstractions that slow teams down.",
+      "sortKey": 30,
+      "isActive": true
+    },
+    {
+      "number": "04",
+      "heading": "Execution Under Chaos",
+      "text": "Handle meetings, email, chat, and shifting priorities without losing direction.",
+      "sortKey": 40,
+      "isActive": true
+    }
+  ],
+  "sortKey": 20,
+  "isActive": true
+}

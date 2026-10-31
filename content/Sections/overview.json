@@ -1,0 +1,49 @@
+{
+  "id": "overview",
+  "eyebrow": "Overview",
+  "headingLines": [
+    {
+      "text": "Solving problems.",
+      "sortKey": 10,
+      "isActive": true
+    },
+    {
+      "text": "Building systems.",
+      "sortKey": 20,
+      "isActive": true
+    },
+    {
+      "text": "Delivering results.",
+      "sortKey": 30,
+      "isActive": true
+    }
+  ],
+  "description": "I use AI as an accelerator, not a crutch, and take full ownership of what ships.",
+  "highlightsLabel": "Quick highlights",
+  "image": {
+    "label": "Portrait of Jeremy Zoerman",
+    "url": "/assets/headshot.jpg",
+    "alt": "Jeremy Zoerman",
+    "sortKey": 10,
+    "isActive": true
+  },
+  "children": [
+    {
+      "text": "15+ years production systems",
+      "sortKey": 10,
+      "isActive": true
+    },
+    {
+      "text": "High-interruption environments",
+      "sortKey": 20,
+      "isActive": true
+    },
+    {
+      "text": "Clarity, ownership, execution",
+      "sortKey": 30,
+      "isActive": true
+    }
+  ],
+  "sortKey": 10,
+  "isActive": true
+}

@@ -1,0 +1,19 @@
+{
+  "id": "about",
+  "eyebrow": "About",
+  "heading": "Built for real-world engineering conditions.",
+  "children": [
+    {
+      "text": "I'm a Lead Software Engineer for a fortune 300 company. I thrive in environments where work doesn't arrive neatly packaged. Most engineering advice assumes clean inputs and uninterrupted focus. That's not how most teams operate.",
+      "sortKey": 10,
+      "isActive": true
+    },
+    {
+      "text": "My approach is built around constant inflow: email threads, meetings, chat, and shifting priorities, while still delivering consistent results.",
+      "sortKey": 20,
+      "isActive": true
+    }
+  ],
+  "sortKey": 50,
+  "isActive": true
+}

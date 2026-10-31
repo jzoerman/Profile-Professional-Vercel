@@ -1,0 +1,62 @@
+{
+  "id": "sidebar",
+  "sortKey": 10,
+  "isActive": true,
+  "label": "Profile navigation",
+  "brand": {
+    "sortKey": 10,
+    "isActive": true,
+    "monogram": "JZ",
+    "name": "Jeremy Zoerman",
+    "role": "Senior Software Engineer"
+  },
+  "navigation": {
+    "sortKey": 20,
+    "isActive": true,
+    "label": "Main sections",
+    "children": [
+      {
+        "id": "overview",
+        "sortKey": 10,
+        "isActive": true,
+        "label": "Overview",
+        "url": "/#overview"
+      },
+      {
+        "id": "projects",
+        "sortKey": 20,
+        "isActive": true,
+        "label": "Projects",
+        "url": "/#projects"
+      },
+      {
+        "id": "writing",
+        "sortKey": 30,
+        "isActive": true,
+        "label": "Writing",
+        "url": "/blog"
+      },
+      {
+        "id": "about",
+        "sortKey": 40,
+        "isActive": true,
+        "label": "About",
+        "url": "/#about"
+      },
+      {
+        "id": "skills",
+        "sortKey": 50,
+        "isActive": true,
+        "label": "Skills",
+        "url": "/#skills"
+      },
+      {
+        "id": "experience",
+        "sortKey": 60,
+        "isActive": true,
+        "label": "Experience",
+        "url": "/#experience"
+      }
+    ]
+  }
+}

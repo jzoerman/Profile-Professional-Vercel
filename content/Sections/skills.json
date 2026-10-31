@@ -1,0 +1,74 @@
+{
+  "id": "skills",
+  "eyebrow": "Technical Skills",
+  "heading": "Tools for fast, maintainable delivery.",
+  "description": "Strong across .NET, JavaScript, SQL, workflow systems, practical UI/UX, API design, and AI-assisted development.",
+  "children": [
+    {
+      "heading": "Languages & Frameworks",
+      "children": [
+        {
+          "text": "C# / .NET",
+          "sortKey": 10,
+          "isActive": true
+        },
+        {
+          "text": "ASP.NET Core",
+          "sortKey": 20,
+          "isActive": true
+        },
+        {
+          "text": "JavaScript",
+          "sortKey": 30,
+          "isActive": true
+        },
+        {
+          "text": "SQL",
+          "sortKey": 40,
+          "isActive": true
+        }
+      ],
+      "sortKey": 10,
+      "isActive": true
+    },
+    {
+      "heading": "Platforms & Tools",
+      "children": [
+        {
+          "text": "SQL Server",
+          "sortKey": 10,
+          "isActive": true
+        },
+        {
+          "text": "MySQL",
+          "sortKey": 20,
+          "isActive": true
+        },
+        {
+          "text": "Sitecore",
+          "sortKey": 30,
+          "isActive": true
+        },
+        {
+          "text": "Git",
+          "sortKey": 40,
+          "isActive": true
+        },
+        {
+          "text": "Codex",
+          "sortKey": 50,
+          "isActive": true
+        },
+        {
+          "text": "Claude Code",
+          "sortKey": 60,
+          "isActive": true
+        }
+      ],
+      "sortKey": 20,
+      "isActive": true
+    }
+  ],
+  "sortKey": 60,
+  "isActive": true
+}
