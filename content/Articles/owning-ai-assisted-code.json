@@ -1,11 +1,12 @@
 {
-  "title": "Owning AI-assisted code in production systems",
-  "summary": "Faster output only helps when the engineer can still reason through the behavior, failure modes, and maintenance cost of what gets deployed.",
-  "category": "Engineering Practice",
-  "publishDate": "2026-05-30",
-  "readTime": "6 min read",
-  "urlPath": "/articles/owning-ai-assisted-code",
-  "htmlFile": "html/owning-ai-assisted-code.html",
-  "isActive": false,
-  "sortKey": 20
-}
+        "title": "Reviewing AI-assisted code with production ownership in mind",
+        "summary": "A practical review approach for generated changes: define the behavior, inspect the assumptions, and verify the paths that matter.",
+        "category": "Engineering Practice",
+        "publishDate": "2026-05-30",
+        "readTime": "2 min read",
+        "urlPath": "/articles/owning-ai-assisted-code",
+        "htmlFile": "html/owning-ai-assisted-code.html",
+        "isActive": false,
+        "bodyHtml": "<p>AI coding tools can shorten the path from an idea to an implementation. Accepting the result still requires a clear understanding of the system and the change being made.</p>\n<h2>Define the behavior before the implementation</h2>\n<p>Write down the outcome, the relevant constraints, and the behavior that existing users depend on. Those details give both the tool and the reviewer something concrete to work against.</p>\n<h2>Read the assumptions</h2>\n<p>I review generated code for the same concerns I would raise in any pull request: data ownership, error handling, dependencies, naming, and fit with the surrounding code. A plausible implementation can still rely on an assumption that the application does not support.</p>\n<p>If I cannot explain a section of the change, I need to investigate it before accepting it. Confidence in the tool does not answer questions about what the application will do.</p>\n<h2>Verify a manageable change</h2>\n<p>Focused changes are easier to inspect and exercise. Verification should cover the intended behavior and the failures that could affect users, using tests or direct checks appropriate to the risk.</p>\n<h2>Consider the next operational problem</h2>\n<p>Before shipping, I want to know how a failure will become visible and how the change could be reversed. Those questions remain part of engineering ownership regardless of how the code was produced.</p>",
+        "sortKey": 20
+      }

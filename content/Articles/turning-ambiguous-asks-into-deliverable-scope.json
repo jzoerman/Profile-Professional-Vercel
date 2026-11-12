@@ -1,11 +1,12 @@
 {
-  "title": "Turning ambiguous asks into deliverable scope",
-  "summary": "A small set of framing questions can reveal the user, constraint, and outcome hiding inside a scattered request.",
-  "category": "Leadership",
-  "publishDate": "2026-04-26",
-  "readTime": "5 min read",
-  "urlPath": "/articles/turning-ambiguous-asks-into-deliverable-scope",
-  "htmlFile": "html/turning-ambiguous-asks-into-deliverable-scope.html",
-  "isActive": true,
-  "sortKey": 40
-}
+        "title": "Turning a vague software request into a clear next step",
+        "summary": "Start with the person affected, the decision they need to make, and the smallest useful outcome the team can verify.",
+        "category": "Leadership",
+        "publishDate": "2026-04-26",
+        "readTime": "2 min read",
+        "urlPath": "/articles/turning-ambiguous-asks-into-deliverable-scope",
+        "htmlFile": "html/turning-ambiguous-asks-into-deliverable-scope.html",
+        "isActive": true,
+        "bodyHtml": "<p>A request often arrives as a proposed feature: add a report, build a screen, automate a step. Before estimating the implementation, I try to understand the situation that led someone to ask for it.</p>\n<h2>Identify who needs a different outcome</h2>\n<p>Ask who will use the result and what is difficult for them today. A report request might come from someone trying to spot missing work, reconcile conflicting records, or make a recurring decision. Each need can lead to a different solution.</p>\n<h2>Make the constraints visible</h2>\n<p>Find out where the data lives, who can change it, and whether timing or existing integrations limit the options. Recording these constraints helps explain the scope and makes later tradeoffs easier to discuss.</p>\n<h2>Describe an observable result</h2>\n<p>Define what someone should be able to do when the work is complete. A concrete example is useful: given these records, this user can identify the items that require follow-up. The example creates a shared basis for implementation and review.</p>\n<h2>Choose a useful first delivery</h2>\n<p>A narrow first step can answer an important question before the team commits to a larger design. Write down what it includes, what remains unresolved, and how the result will be checked with the person who requested it.</p>\n<p>Clear scope develops through these conversations. The goal is enough shared understanding to make the next decision and deliver something useful.</p>",
+        "sortKey": 50
+      }

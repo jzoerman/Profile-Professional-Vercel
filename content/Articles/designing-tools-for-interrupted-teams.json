@@ -1,11 +1,12 @@
 {
-  "title": "Designing tools for interrupted teams",
-  "summary": "The best internal tools absorb messy inputs, preserve context, and help people recover quickly after the day breaks apart.",
-  "category": "Workflow",
-  "publishDate": "2026-05-18",
-  "readTime": "4 min read",
-  "urlPath": "/articles/designing-tools-for-interrupted-teams",
-  "htmlFile": "html/designing-tools-for-interrupted-teams.html",
-  "isActive": true,
-  "sortKey": 30
-}
+        "title": "Designing workflow tools that preserve context",
+        "summary": "Practical ways to help teams capture incoming work, see what changed, and resume a task without reconstructing every decision.",
+        "category": "Workflow",
+        "publishDate": "2026-05-18",
+        "readTime": "2 min read",
+        "urlPath": "/articles/designing-tools-for-interrupted-teams",
+        "htmlFile": "html/designing-tools-for-interrupted-teams.html",
+        "isActive": true,
+        "bodyHtml": "<p>A workflow tool earns its place when it helps someone return to a task and understand what needs attention. That matters in teams where meetings, messages, and new requests regularly interrupt planned work.</p>\n<h2>Make the first useful action easy</h2>\n<p>Capturing a request should take less effort than keeping it in your head. Start with enough information to recognize the work later: what came in, who needs it, and a short note about the next step. More detail can follow when the request becomes clearer.</p>\n<p>Requiring a complete specification at the moment of capture encourages people to postpone recording the work. A short entry that can be refined is often more useful than an elaborate form left empty.</p>\n<h2>Keep decisions with the work</h2>\n<p>A task title rarely explains why a priority changed or what is blocking progress. Notes, recent activity, and a visible next action can give someone a place to restart. The useful question is whether the record helps them continue without searching through several conversations.</p>\n<h2>Show the state of the day</h2>\n<p>Views of current priorities and recent activity help people distinguish work that is moving from work that is waiting. A calendar can provide another way to recall when something happened, alongside a list of tasks.</p>\n<p>I prefer tools that make these details easy to find and update. The design should reduce the effort of maintaining context throughout an ordinary working day.</p>",
+        "sortKey": 30
+      }

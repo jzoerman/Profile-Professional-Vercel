@@ -1,51 +1,51 @@
 {
-  "id": "blog-preview",
-  "eyebrow": "Writing",
-  "heading": "Notes on practical engineering work.",
-  "viewAllLink": {
-    "label": "View all articles",
-    "url": "/blog",
-    "sortKey": 10,
-    "isActive": true
-  },
-  "children": [
-    {
-      "id": "thoughts-on-ai-in-software-engineering",
-      "sortKey": 1,
-      "category": "Engineering Practice",
-      "readTime": "2 min read",
-      "title": "Thoughts on AI in software engineering",
-      "summary": "AI amplifies engineering ability, making experience and judgment more important—not less—as teams build and maintain production systems.",
-      "urlPath": "/articles/thoughts-on-ai-in-software-engineering",
-      "isFeatured": true,
-      "readLinkLabel": "Read article",
-      "isActive": true
-    },
-    {
-      "id": "designing-tools-for-interrupted-teams",
-      "sortKey": 2,
-      "category": "Workflow",
-      "readTime": "4 min read",
-      "title": "Designing tools for interrupted teams",
-      "summary": "The best internal tools absorb messy inputs, preserve context, and help people recover quickly after the day breaks apart.",
-      "urlPath": "/articles/designing-tools-for-interrupted-teams",
-      "isFeatured": false,
-      "readLinkLabel": "Read article",
-      "isActive": true
-    },
-    {
-      "id": "turning-ambiguous-asks-into-deliverable-scope",
-      "sortKey": 3,
-      "category": "Leadership",
-      "readTime": "5 min read",
-      "title": "Turning ambiguous asks into deliverable scope",
-      "summary": "A small set of framing questions can reveal the user, constraint, and outcome hiding inside a scattered request.",
-      "urlPath": "/articles/turning-ambiguous-asks-into-deliverable-scope",
-      "isFeatured": false,
-      "readLinkLabel": "Read article",
-      "isActive": true
-    }
-  ],
-  "sortKey": 40,
-  "isActive": true
-}
+        "id": "blog-preview",
+        "eyebrow": "Writing",
+        "heading": "Perspectives on software delivery and technical judgment.",
+        "viewAllLink": {
+          "label": "View all articles",
+          "url": "/blog",
+          "sortKey": 10,
+          "isActive": true
+        },
+        "children": [
+          {
+            "id": "thoughts-on-ai-in-software-engineering",
+            "sortKey": 10,
+            "category": "Engineering Practice",
+            "readTime": "2 min read",
+            "title": "Where engineering judgment fits in AI-assisted development",
+            "summary": "AI can speed up implementation and investigation. Deciding whether the result fits a production system still takes context, review, and experience.",
+            "urlPath": "/articles/thoughts-on-ai-in-software-engineering",
+            "isFeatured": true,
+            "readLinkLabel": "Read article",
+            "isActive": true
+          },
+          {
+            "id": "designing-tools-for-interrupted-teams",
+            "sortKey": 20,
+            "category": "Workflow",
+            "readTime": "2 min read",
+            "title": "Designing workflow tools that preserve context",
+            "summary": "Practical ways to help teams capture incoming work, see what changed, and resume a task without reconstructing every decision.",
+            "urlPath": "/articles/designing-tools-for-interrupted-teams",
+            "isFeatured": false,
+            "readLinkLabel": "Read article",
+            "isActive": true
+          },
+          {
+            "id": "turning-ambiguous-asks-into-deliverable-scope",
+            "sortKey": 30,
+            "category": "Leadership",
+            "readTime": "2 min read",
+            "title": "Turning a vague software request into a clear next step",
+            "summary": "Start with the person affected, the decision they need to make, and the smallest useful outcome the team can verify.",
+            "urlPath": "/articles/turning-ambiguous-asks-into-deliverable-scope",
+            "isFeatured": false,
+            "readLinkLabel": "Read article",
+            "isActive": true
+          }
+        ],
+        "sortKey": 40,
+        "isActive": true
+      }

@@ -1,11 +1,12 @@
 {
-  "title": "Thoughts on AI in software engineering",
-  "summary": "AI amplifies engineering ability, making experience and judgment more important—not less—as teams build and maintain production systems.",
-  "category": "Engineering Practice",
-  "publishDate": "2026-08-06",
-  "readTime": "2 min read",
-  "urlPath": "/articles/thoughts-on-ai-in-software-engineering",
-  "htmlFile": "html/thoughts-on-ai-in-software-engineering.html",
-  "isActive": true,
-  "sortKey": 10
-}
+        "title": "Where engineering judgment fits in AI-assisted development",
+        "summary": "AI can speed up implementation and investigation. Deciding whether the result fits a production system still takes context, review, and experience.",
+        "category": "Engineering Practice",
+        "publishDate": "2026-08-06",
+        "readTime": "2 min read",
+        "urlPath": "/articles/thoughts-on-ai-in-software-engineering",
+        "htmlFile": "html/thoughts-on-ai-in-software-engineering.html",
+        "isActive": true,
+        "bodyHtml": "<p>The more I work with AI coding tools, the more useful I find them for exploring an unfamiliar problem, investigating a defect, and getting an initial implementation in place. They give me more options to examine and a shorter feedback loop.</p>\n<p>They also make it easier to produce a convincing answer before the underlying question is settled. That changes how I spend my attention during development.</p>\n<h2>Supply the context that changes the answer</h2>\n<p>A tool can work from the requirements and code available to it. The engineer still needs to identify missing business rules, operational constraints, and dependencies. A clean implementation may solve only part of the problem if those details never enter the conversation.</p>\n<h2>Check the decisions behind the code</h2>\n<p>I want to understand why a change uses a particular boundary, where its data comes from, and how it behaves when a dependency fails. Reading the output is one part of that review; tracing the behavior through the existing application is another.</p>\n<p>Experience helps me decide which questions deserve more investigation. It does not make review optional. An unfamiliar library or a subtle assumption is a reason to check further.</p>\n<h2>Keep understanding close to delivery</h2>\n<p>I see AI as a useful part of the development process, alongside direct investigation, discussion, and verification. The measure of success is software I can explain and maintain after the initial change is complete.</p>\n<p>Faster implementation gives engineering judgment more work to do. I want to use that time to improve the decisions around the code as well as the code itself.</p>",
+        "sortKey": 10
+      }

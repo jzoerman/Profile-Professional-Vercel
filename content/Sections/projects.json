@@ -1,20 +1,20 @@
 {
-  "id": "projects",
-  "eyebrow": "Recent Project",
-  "children": [
-    {
-      "heading": "Personal Productivity System",
-      "text": "A lightweight application for engineers managing high volumes of incoming work, with rapid capture, calendar-based views, and clear visibility into today, yesterday, and active priorities.",
-      "link": {
-        "label": "View project",
-        "url": "https://professo.io",
-        "sortKey": 10,
+        "id": "projects",
+        "eyebrow": "Project Spotlight",
+        "children": [
+          {
+            "heading": "Professo · Personal Productivity System",
+            "text": "An application in development for engineers balancing incoming requests and ongoing work. Rapid capture and calendar views bring recent activity and current priorities together, making it easier to pick up the next task with context.",
+            "link": {
+              "label": "View project",
+              "url": "https://professo.io",
+              "sortKey": 10,
+              "isActive": true
+            },
+            "sortKey": 10,
+            "isActive": true
+          }
+        ],
+        "sortKey": 30,
         "isActive": true
-      },
-      "sortKey": 10,
-      "isActive": true
-    }
-  ],
-  "sortKey": 30,
-  "isActive": true
-}
+      }

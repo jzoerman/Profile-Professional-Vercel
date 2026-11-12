@@ -1,13 +1,13 @@
 {
-  "id": "contact",
-  "eyebrow": "Project in Development",
-  "heading": "Building systems that work in the real world.",
-  "link": {
-    "label": "Professo.io",
-    "url": "https://professo.io",
-    "sortKey": 10,
-    "isActive": true
-  },
-  "sortKey": 90,
-  "isActive": true
-}
+        "id": "contact",
+        "eyebrow": "Explore My Work",
+        "heading": "See how I approach everyday workflow problems.",
+        "link": {
+          "label": "Explore Professo",
+          "url": "https://professo.io",
+          "sortKey": 10,
+          "isActive": true
+        },
+        "sortKey": 90,
+        "isActive": true
+      }

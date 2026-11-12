@@ -1,23 +1,23 @@
 {
-  "id": "philosophy",
-  "eyebrow": "Philosophy",
-  "children": [
-    {
-      "text": "AI can write the code, but it can't own the consequences. If you don't understand it, the responsibility is yours.",
-      "sortKey": 10,
-      "isActive": true
-    },
-    {
-      "text": "AI is a powerful accelerator for work you can do without AI. Used blindly, it can hide gaps in your knowledge.",
-      "sortKey": 20,
-      "isActive": true
-    },
-    {
-      "text": "The best systems are the ones people actually use.",
-      "sortKey": 30,
-      "isActive": true
-    }
-  ],
-  "sortKey": 80,
-  "isActive": true
-}
+        "id": "philosophy",
+        "eyebrow": "Philosophy",
+        "children": [
+          {
+            "text": "Ownership continues after deployment. I want to understand the code I ship, how it can fail, and what it will take to maintain.",
+            "sortKey": 10,
+            "isActive": true
+          },
+          {
+            "text": "AI earns its place when it helps me explore options, implement changes, or diagnose a problem while keeping the reasoning open to review.",
+            "sortKey": 20,
+            "isActive": true
+          },
+          {
+            "text": "Useful software fits its users. Clear interactions and dependable behavior matter as much as the implementation behind them.",
+            "sortKey": 30,
+            "isActive": true
+          }
+        ],
+        "sortKey": 80,
+        "isActive": true
+      }

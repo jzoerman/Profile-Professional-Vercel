@@ -1,19 +1,19 @@
 {
-  "id": "about",
-  "eyebrow": "About",
-  "heading": "Built for real-world engineering conditions.",
-  "children": [
-    {
-      "text": "I'm a Lead Software Engineer for a fortune 300 company. I thrive in environments where work doesn't arrive neatly packaged. Most engineering advice assumes clean inputs and uninterrupted focus. That's not how most teams operate.",
-      "sortKey": 10,
-      "isActive": true
-    },
-    {
-      "text": "My approach is built around constant inflow: email threads, meetings, chat, and shifting priorities, while still delivering consistent results.",
-      "sortKey": 20,
-      "isActive": true
-    }
-  ],
-  "sortKey": 50,
-  "isActive": true
-}
+        "id": "about",
+        "eyebrow": "About",
+        "heading": "Engineering that holds up beyond the first release.",
+        "children": [
+          {
+            "text": "I'm a Lead Software Engineer at a Fortune 300 company, with more than a decade of experience working on production systems. I enjoy turning incomplete requests into software that fits the people, processes, and constraints around it.",
+            "sortKey": 10,
+            "isActive": true
+          },
+          {
+            "text": "My day-to-day work spans implementation, maintenance, internal tooling, and the conversations that keep delivery moving. I value clear decisions, readable code, and enough context for the next engineer to understand why a system works the way it does.",
+            "sortKey": 20,
+            "isActive": true
+          }
+        ],
+        "sortKey": 50,
+        "isActive": true
+      }
