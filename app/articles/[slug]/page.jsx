@@ -1,9 +1,9 @@
 import { notFound } from 'next/navigation';
-import { articleBySlug, articles, date } from '../../../lib/content.mjs';
+import { articleBySlug, articles, date, leafStatus } from '../../../lib/content.mjs';
 import { ArticleMeta, ArticleCard } from '../../../components/content';
 export async function generateMetadata({params}) {
   const article = await articleBySlug((await params).slug);
-  return {title:article?.title || 'Article not found'};
+  return {title:article?.title || 'Article not found', other: {'leaf-status': await leafStatus('article', (await params).slug)}};
 }
 export default async function Article({params}) {
   const a = await articleBySlug((await params).slug);

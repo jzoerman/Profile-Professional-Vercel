@@ -24,3 +24,5 @@ Article HTML is trusted publisher content, as in the original Razor application.
 ## Vercel
 
 Import this directory as a Next.js project. Default build and output settings work; add the above environment variables if overriding defaults. Local fallback JSON and HTML are imported through the server's filesystem and included by Next.js output tracing. No .NET runtime or database connection is required. This repository does not deploy automatically by itself.
+
+Pages expose `<meta name="leaf-status" content="Leaf++">` when all content used by the page comes from Leaf++. The value is `static-fallback` when any content (including the sidebar or related articles) uses bundled files, or when Leaf++ is disabled.
